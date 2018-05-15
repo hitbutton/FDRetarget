@@ -1,0 +1,6 @@
+## Interface:11200
+## Title: FDRetarget
+## Notes: Retargets Hunter corpse if they appear to die
+## Author: hitbutton
+
+FDRetarget.lua
